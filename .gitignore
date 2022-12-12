@@ -1,2 +1,22 @@
+# For Java
+
+LeetCode.iml
 .DS_Store
 .idea
+
+# For Python
+*.pyc
+*.pyo
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
