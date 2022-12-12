@@ -1,3 +1,13 @@
+
+ > **Problem solved**:
+ > - ```Easy```: 27
+ > - ```Medium```: 2 
+ > - ```Hard```: 0
+
+
+
+
+
 | #Leetcode Number | Title                                                                                                                                       | Difficulty   | Tag        | Solution on Java                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Solution on Python |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 |      **#1**      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                           | ```Easy```   | ```Java``` | [Solution](https://github.com/toborix/MyLeetcode-Solutions/blob/master/src/Levels/Easy/TwoSum/Solution.java), [Solution_2](https://github.com/toborix/MyLeetcode-Solutions/blob/master/src/Levels/Easy/TwoSum/Solution_2.java), [Solution_3](https://github.com/toborix/MyLeetcode-Solutions/blob/master/src/Levels/Easy/TwoSum/Solution_3.java)                                                                                                                                                               |                    |
