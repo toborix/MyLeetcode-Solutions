@@ -1,7 +1,7 @@
 
  > **Problem solved**:
- > - ```Easy```: 30
- > - ```Medium```: 2 
+ > - ```Easy```: 34
+ > - ```Medium```: 7 
  > - ```Hard```: 0
 
 
